@@ -1,0 +1,1 @@
+java -jar "D:\java projects\j\src\sample\EnemiesAttackApp.jar"
